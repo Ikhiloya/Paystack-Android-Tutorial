@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PaystackTutorial</string>
+    <string name="check">Check</string>
+    <string name="cvv">CVV</string>
+    <string name="expiry">Expiry</string>
+    <string name="card_number">Card Number</string>
+    <string name="pay">Pay</string>
+    <string name="yy">YY</string>
+    <string name="expiry_month">MM</string>
+    <string name="email">Email</string>
+</resources>
